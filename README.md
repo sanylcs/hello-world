@@ -1,3 +1,5 @@
 # hello-world
-My first github repo
-    Nothing much
+My first github repo 
+* Nothing much
+* second
+* third
