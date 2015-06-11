@@ -8,3 +8,8 @@ My first github repo
 1. one
 2. two
 3. three
+
+#Author
+* name: Sany
+* given: Sany
+* BOD: 1/1/10
